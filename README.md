@@ -1,7 +1,7 @@
 # Kodluyoruz Ilk Repo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
-![Image] (https://prnt.sc/1h06qov/a.png)
+![Image](https://prnt.sc/1h06qov/a.png)
 
 # Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
